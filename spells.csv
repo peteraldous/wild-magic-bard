@@ -1,0 +1,464 @@
+Name, Level, School, Casting time, Ritual, Concentration, Class, Source
+
+Acid Splash, 0, Conjuration, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Aid, 2, Abjuration, 1 Action, No, No, Cleric Paladin, Players Handbook
+Alarm, 1, Abjuration, 1 Minute, Yes, No, Ranger Wizard, Players Handbook
+Alter Self, 2, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Animal Friendship, 1, Enchantment, 1 Action, No, No, Bard Druid Ranger, Players Handbook
+Animal Messenger, 2, Enchantment, 1 Action, Yes, No, Bard Druid Ranger, Players Handbook
+Animal Shapes, 8, Transmutation, 1 Action, No, Yes, Druid, Players Handbook
+Animate Dead, 3, Necromancy, 1 Minute, No, No, Cleric Wizard, Players Handbook
+Animate Objects, 5, Transmutation, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Antilife Shell, 5, Abjuration, 1 Action, No, Yes, Druid, Players Handbook
+Antimagic Field, 8, Abjuration, 1 Action, No, Yes, Cleric Wizard, Players Handbook
+Antipathy/Sympathy, 8, Enchantment, 1 Hour, No, No, Druid Wizard, Players Handbook
+Arcane Eye, 4, Divination, 1 Action, No, Yes, Wizard, Players Handbook
+Arcane Gate, 6, Conjuration, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Arcane Lock, 2, Abjuration, 1 Action, No, No, Wizard, Players Handbook
+Armor of Agathys, 1, Abjuration, 1 Action, No, No, Warlock, Players Handbook
+Arms of Hadar, 1, Conjuration, 1 Action, No, No, Warlock, Players Handbook
+Astral Projection, 9, Necromancy, 1 Hour, No, No, Cleric Warlock Wizard, Players Handbook
+Augury, 2, Divination, 1 Minute, Yes, No, Cleric, Players Handbook
+Aura of Life, 4, Abjuration, 1 Action, No, Yes, Paladin, Players Handbook
+Aura of Purity, 4, Abjuration, 1 Action, No, Yes, Paladin, Players Handbook
+Aura of Vitality, 3, Evocation, 1 Action, No, Yes, Paladin, Players Handbook
+Awaken, 5, Transmutation, 8 Hours, No, No, Bard Druid, Players Handbook
+Bane, 1, Enchantment, 1 Action, No, Yes, Bard Cleric, Players Handbook
+Banishing Smite, 5, Abjuration, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Banishment, 4, Abjuration, 1 Action, No, Yes, Cleric Paladin Sorcerer Warlock Wizard, Players Handbook
+Barkskin, 2, Transmutation, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Beacon of Hope, 3, Abjuration, 1 Action, No, Yes, Cleric, Players Handbook
+Beast Sense, 2, Divination, 1 Action, Yes, Yes, Druid Ranger, Players Handbook
+Bestow Curse, 3, Necromancy, 1 Action, No, Yes, Bard Cleric Wizard, Players Handbook
+Bigby's Hand, 5, Evocation, 1 Action, No, Yes, Wizard, Players Handbook
+Blade Barrier, 6, Evocation, 1 Action, No, Yes, Cleric, Players Handbook
+Blade Ward, 0, Abjuration, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Bless, 1, Enchantment, 1 Action, No, Yes, Cleric Paladin, Players Handbook
+Blight, 4, Necromancy, 1 Action, No, No, Druid Sorcerer Warlock Wizard, Players Handbook
+Blinding Smite, 3, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Blindness/Deafness, 2, Necromancy, 1 Action, No, No, Bard Cleric Sorcerer Wizard, Players Handbook
+Blink, 3, Transmutation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Blur, 2, Illusion, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Branding Smite, 2, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Burning Hands, 1, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Call Lightning, 3, Conjuration, 1 Action, No, Yes, Druid, Players Handbook
+Calm Emotions, 2, Enchantment, 1 Action, No, Yes, Bard Cleric, Players Handbook
+Chain Lightning, 6, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Charm Person, 1, Enchantment, 1 Action, No, No, Bard Druid Sorcerer Warlock Wizard, Players Handbook
+Chill Touch, 0, Necromancy, 1 Action, No, No, Sorcerer Warlock Wizard, Players Handbook
+Chromatic Orb, 1, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Circle of Death, 6, Necromancy, 1 Action, No, No, Sorcerer Warlock Wizard, Players Handbook
+Circle of Power, 5, Abjuration, 1 Action, No, Yes, Paladin, Players Handbook
+Clairvoyance, 3, Divination, 10 Minutes, No, Yes, Bard Cleric Sorcerer Wizard, Players Handbook
+Clone, 8, Necromancy, 1 Hour, No, No, Wizard, Players Handbook
+Cloud of Daggers, 2, Conjuration, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Cloudkill, 5, Conjuration, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Color Spray, 1, Illusion, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Command, 1, Enchantment, 1 Action, No, No, Cleric Paladin, Players Handbook
+Commune, 5, Divination, 1 Minute, Yes, No, Cleric, Players Handbook
+Commune with Nature, 5, Divination, 1 Minute, Yes, No, Druid Ranger, Players Handbook
+Compelled Duel, 1, Enchantment, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Comprehend Languages, 1, Divination, 1 Action, Yes, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Compulsion, 4, Enchantment, 1 Action, No, Yes, Bard, Players Handbook
+Cone of Cold, 5, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Confusion, 4, Enchantment, 1 Action, No, Yes, Bard Druid Sorcerer Wizard, Players Handbook
+Conjure Animals, 3, Conjuration, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Conjure Barrage, 3, Conjuration, 1 Action, No, No, Ranger, Players Handbook
+Conjure Celestial, 7, Conjuration, 1 Minute, No, Yes, Cleric, Players Handbook
+Conjure Elemental, 5, Conjuration, 1 Minute, No, Yes, Druid Wizard, Players Handbook
+Conjure Fey, 6, Conjuration, 1 Minute, No, Yes, Druid Warlock, Players Handbook
+Conjure Minor Elementals, 4, Conjuration, 1 Minute, No, Yes, Druid Wizard, Players Handbook
+Conjure Volley, 5, Conjuration, 1 Action, No, No, Ranger, Players Handbook
+Conjure Woodland Beings, 4, Conjuration, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Contact Other Plane, 5, Divination, 1 Minute, Yes, No, Warlock Wizard, Players Handbook
+Contagion, 5, Necromancy, 1 Action, No, No, Cleric Druid, Players Handbook
+Contingency, 6, Evocation, 10 Minutes, No, No, Wizard, Players Handbook
+Continual Flame, 2, Evocation, 1 Action, No, No, Cleric Wizard, Players Handbook
+Control Water, 4, Transmutation, 1 Action, No, Yes, Cleric Druid Wizard, Players Handbook
+Control Weather, 8, Transmutation, 10 Minutes, No, Yes, Cleric Druid Wizard, Players Handbook
+Cordon of Arrows, 2, Transmutation, 1 Action, No, No, Ranger, Players Handbook
+Counterspell, 3, Abjuration, Special, No, No, Sorcerer Warlock Wizard, Players Handbook
+Create Food and Water, 3, Conjuration, 1 Action, No, No, Cleric Paladin, Players Handbook
+Create or Destroy Water, 1, Transmutation, 1 Action, No, No, Cleric Druid, Players Handbook
+Create Undead, 6, Necromancy, 1 Minute, No, No, Cleric Warlock Wizard, Players Handbook
+Creation, 5, Illusion, 1 Minute, No, No, Sorcerer Wizard, Players Handbook
+Crown of Madness, 2, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Crusader's Mantle, 3, Evocation, 1 Action, No, Yes, Paladin, Players Handbook
+Cure Wounds, 1, Evocation, 1 Action, No, No, Bard Cleric Druid Paladin Ranger, Players Handbook
+Dancing Lights, 0, Evocation, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Darkness, 2, Evocation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Darkvision, 2, Transmutation, 1 Action, No, No, Druid Ranger Sorcerer Wizard, Players Handbook
+Daylight, 3, Evocation, 1 Action, No, No, Cleric Druid Paladin Ranger Sorcerer, Players Handbook
+Death Ward, 4, Abjuration, 1 Action, No, No, Cleric Paladin, Players Handbook
+Delayed Blast Fireball, 7, Evocation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Demiplane, 8, Conjuration, 1 Action, No, No, Warlock Wizard, Players Handbook
+Destructive Wave, 5, Evocation, 1 Action, No, No, Paladin, Players Handbook
+Detect Evil and Good, 1, Divination, 1 Action, No, Yes, Cleric Paladin, Players Handbook
+Detect Magic, 1, Divination, 1 Action, Yes, Yes, Bard Cleric Druid Paladin Ranger Sorcerer Wizard, Players Handbook
+Detect Poison and Disease, 1, Divination, 1 Action, Yes, Yes, Cleric Druid Paladin Ranger, Players Handbook
+Detect Thoughts, 2, Divination, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Dimension Door, 4, Conjuration, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Disguise Self, 1, Illusion, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Disintegrate, 6, Transmutation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Dispel Evil and Good, 5, Abjuration, 1 Action, No, Yes, Cleric Paladin, Players Handbook
+Dispel Magic, 3, Abjuration, 1 Action, No, No, Bard Cleric Druid Paladin Sorcerer Warlock Wizard, Players Handbook
+Dissonant Whispers, 1, Enchantment, 1 Action, No, No, Bard, Players Handbook
+Divination, 4, Divination, 1 Action, Yes, No, Cleric, Players Handbook
+Divine Favor, 1, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Divine Word, 7, Evocation, 1 Bonus Action, No, No, Cleric, Players Handbook
+Dominate Beast, 4, Enchantment, 1 Action, No, Yes, Druid Sorcerer, Players Handbook
+Dominate Monster, 8, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Dominate Person, 5, Enchantment, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Drawmij's Instant Summons, 6, Conjuration, 1 Minute, Yes, No, Wizard, Players Handbook
+Dream, 5, Illusion, 1 Minute, No, No, Bard Warlock Wizard, Players Handbook
+Druidcraft, 0, Transmutation, 1 Action, No, No, Druid, Players Handbook
+Earthquake, 8, Evocation, 1 Action, No, Yes, Cleric Druid Sorcerer, Players Handbook
+Eldritch Blast, 0, Evocation, 1 Action, No, No, Warlock, Players Handbook
+Elemental Weapon, 3, Transmutation, 1 Action, No, Yes, Paladin, Players Handbook
+Enhance Ability, 2, Transmutation, 1 Action, No, Yes, Bard Cleric Druid Sorcerer, Players Handbook
+Enlarge/Reduce, 2, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Ensnaring Strike, 1, Conjuration, 1 Bonus Action, No, Yes, Ranger, Players Handbook
+Entangle, 1, Conjuration, 1 Action, No, Yes, Druid, Players Handbook
+Enthrall, 2, Enchantment, 1 Action, No, No, Bard Warlock, Players Handbook
+Etherealness, 7, Transmutation, 1 Action, No, No, Bard Cleric Sorcerer Warlock Wizard, Players Handbook
+Evard's Black Tentacles, 4, Conjuration, 1 Action, No, Yes, Wizard, Players Handbook
+Expeditious Retreat, 1, Transmutation, 1 Bonus Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Eyebite, 6, Necromancy, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Fabricate, 4, Transmutation, 10 Minutes, No, No, Wizard, Players Handbook
+Faerie Fire, 1, Evocation, 1 Action, No, Yes, Bard Druid, Players Handbook
+False Life, 1, Necromancy, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Fear, 3, Illusion, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Feather Fall, 1, Transmutation, Special, No, No, Bard Sorcerer Wizard, Players Handbook
+Feeblemind, 8, Enchantment, 1 Action, No, No, Bard Druid Warlock Wizard, Players Handbook
+Feign Death, 3, Necromancy, 1 Action, Yes, No, Bard Cleric Druid Wizard, Players Handbook
+Find Familiar, 1, Conjuration, 1 Hour, Yes, No, Wizard, Players Handbook
+Find Steed, 2, Conjuration, 10 Minutes, No, No, Paladin, Players Handbook
+Find the Path, 6, Divination, 1 Minute, No, Yes, Bard Cleric Druid, Players Handbook
+Find Traps, 2, Divination, 1 Action, No, No, Cleric Druid Ranger, Players Handbook
+Finger of Death, 7, Necromancy, 1 Action, No, No, Sorcerer Warlock Wizard, Players Handbook
+Fire Bolt, 0, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Fire Shield, 4, Evocation, 1 Action, No, No, Wizard, Players Handbook
+Fire Storm, 7, Evocation, 1 Action, No, No, Cleric Druid Sorcerer, Players Handbook
+Fireball, 3, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Flame Blade, 2, Evocation, 1 Bonus Action, No, Yes, Druid, Players Handbook
+Flame Strike, 5, Evocation, 1 Action, No, No, Cleric, Players Handbook
+Flaming Sphere, 2, Conjuration, 1 Action, No, Yes, Druid Wizard, Players Handbook
+Flesh to Stone, 6, Transmutation, 1 Action, No, Yes, Warlock Wizard, Players Handbook
+Fly, 3, Transmutation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Fog Cloud, 1, Conjuration, 1 Action, No, Yes, Druid Ranger Sorcerer Wizard, Players Handbook
+Forbiddance, 6, Abjuration, 10 Minutes, Yes, No, Cleric, Players Handbook
+Forcecage, 7, Evocation, 1 Action, No, No, Bard Warlock Wizard, Players Handbook
+Foresight, 9, Divination, 1 Minute, No, No, Bard Druid Warlock Wizard, Players Handbook
+Freedom of Movement, 4, Abjuration, 1 Action, No, No, Bard Cleric Druid Ranger, Players Handbook
+Friends, 0, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Gaseous Form, 3, Transmutation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Gate, 9, Conjuration, 1 Action, No, Yes, Cleric Sorcerer Wizard, Players Handbook
+Geas, 5, Enchantment, 1 Minute, No, No, Bard Cleric Druid Paladin Wizard, Players Handbook
+Gentle Repose, 2, Necromancy, 1 Action, Yes, No, Cleric Wizard, Players Handbook
+Giant Insect, 4, Transmutation, 1 Action, No, Yes, Druid, Players Handbook
+Glibness, 8, Transmutation, 1 Action, No, No, Bard Warlock, Players Handbook
+Globe of Invulnerability, 6, Abjuration, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Glyph of Warding, 3, Abjuration, 1 Hour, No, No, Bard Cleric Wizard, Players Handbook
+Goodberry, 1, Transmutation, 1 Action, No, No, Druid Ranger, Players Handbook
+Grasping Vine, 4, Conjuration, 1 Bonus Action, No, Yes, Druid Ranger, Players Handbook
+Grease, 1, Conjuration, 1 Action, No, No, Wizard, Players Handbook
+Greater Invisibility, 4, Illusion, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Greater Restoration, 5, Abjuration, 1 Action, No, No, Bard Cleric Druid, Players Handbook
+Guardian of Faith, 4, Conjuration, 1 Action, No, No, Cleric, Players Handbook
+Guards and Wards, 6, Abjuration, 10 Minutes, No, No, Bard Wizard, Players Handbook
+Guidance, 0, Divination, 1 Action, No, Yes, Cleric Druid, Players Handbook
+Guiding Bolt, 1, Evocation, 1 Action, No, No, Cleric, Players Handbook
+Gust of Wind, 2, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Hail of Thorns, 1, Conjuration, 1 Bonus Action, No, Yes, Ranger, Players Handbook
+Hallow, 5, Evocation, 24 Hours, No, No, Cleric, Players Handbook
+Hallucinatory Terrain, 4, Illusion, 10 Minutes, No, No, Bard Druid Warlock Wizard, Players Handbook
+Harm, 6, Necromancy, 1 Action, No, No, Cleric, Players Handbook
+Haste, 3, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Heal, 6, Evocation, 1 Action, No, No, Cleric Druid, Players Handbook
+Healing Word, 1, Evocation, 1 Bonus Action, No, No, Bard Cleric Druid, Players Handbook
+Heat Metal, 2, Transmutation, 1 Action, No, Yes, Bard Druid, Players Handbook
+Hellish Rebuke, 1, Evocation, Special, No, No, Warlock, Players Handbook
+Heroes' Feast, 6, Conjuration, 10 Minutes, No, No, Cleric Druid, Players Handbook
+Heroism, 1, Enchantment, 1 Action, No, Yes, Bard Paladin, Players Handbook
+Hex, 1, Enchantment, 1 Bonus Action, No, Yes, Warlock, Players Handbook
+Hold Monster, 5, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Hold Person, 2, Enchantment, 1 Action, No, Yes, Bard Cleric Druid Sorcerer Warlock Wizard, Players Handbook
+Holy Aura, 8, Abjuration, 1 Action, No, Yes, Cleric, Players Handbook
+Hunger of Hadar, 3, Conjuration, 1 Action, No, Yes, Warlock, Players Handbook
+Hunter's Mark, 1, Divination, 1 Bonus Action, No, Yes, Ranger, Players Handbook
+Hypnotic Pattern, 3, Illusion, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Ice Storm, 4, Evocation, 1 Action, No, No, Druid Sorcerer Wizard, Players Handbook
+Identify, 1, Divination, 1 Minute, Yes, No, Bard Wizard, Players Handbook
+Illusory Script, 1, Illusion, 1 Minute, Yes, No, Bard Warlock Wizard, Players Handbook
+Imprisonment, 9, Abjuration, 1 Minute, No, No, Warlock Wizard, Players Handbook
+Incendiary Cloud, 8, Conjuration, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Inflict Wounds, 1, Necromancy, 1 Action, No, No, Cleric, Players Handbook
+Insect Plague, 5, Conjuration, 1 Action, No, Yes, Cleric Druid Sorcerer, Players Handbook
+Invisibility, 2, Illusion, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Jump, 1, Transmutation, 1 Action, No, No, Druid Ranger Sorcerer Wizard, Players Handbook
+Knock, 2, Transmutation, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Legend Lore, 5, Divination, 10 Minutes, No, No, Bard Cleric Wizard, Players Handbook
+Leomund's Secret Chest, 4, Conjuration, 1 Action, No, No, Wizard, Players Handbook
+Leomund's Tiny Hut, 3, Evocation, 1 Minute, Yes, No, Bard Wizard, Players Handbook
+Lesser Restoration, 2, Abjuration, 1 Action, No, No, Bard Cleric Druid Paladin Ranger, Players Handbook
+Levitate, 2, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Light, 0, Evocation, 1 Action, No, No, Bard Cleric Sorcerer Wizard, Players Handbook
+Lightning Arrow, 3, Transmutation, 1 Bonus Action, No, Yes, Ranger, Players Handbook
+Lightning Bolt, 3, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Locate Animals or Plants, 2, Divination, 1 Action, Yes, No, Bard Druid Ranger, Players Handbook
+Locate Creature, 4, Divination, 1 Action, No, Yes, Bard Cleric Druid Paladin Ranger Wizard, Players Handbook
+Locate Object, 2, Divination, 1 Action, No, Yes, Bard Cleric Druid Paladin Ranger Wizard, Players Handbook
+Longstrider, 1, Transmutation, 1 Action, No, No, Bard Druid Ranger Wizard, Players Handbook
+Mage Armor, 1, Abjuration, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Mage Hand, 0, Conjuration, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Magic Circle, 3, Abjuration, 1 Minute, No, No, Cleric Paladin Warlock Wizard, Players Handbook
+Magic Jar, 6, Necromancy, 1 Minute, No, No, Wizard, Players Handbook
+Magic Missile, 1, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Magic Mouth, 2, Illusion, 1 Minute, Yes, No, Bard Wizard, Players Handbook
+Magic Weapon, 2, Transmutation, 1 Bonus Action, No, Yes, Paladin Wizard, Players Handbook
+Major Image, 3, Illusion, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Mass Cure Wounds, 5, Evocation, 1 Action, No, No, Bard Cleric Druid, Players Handbook
+Mass Heal, 9, Evocation, 1 Action, No, No, Cleric, Players Handbook
+Mass Healing Word, 3, Evocation, 1 Bonus Action, No, No, Cleric, Players Handbook
+Mass Suggestion, 6, Enchantment, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Maze, 8, Conjuration, 1 Action, No, Yes, Wizard, Players Handbook
+Meld into Stone, 3, Transmutation, 1 Action, Yes, No, Cleric Druid, Players Handbook
+Melf's Acid Arrow, 2, Evocation, 1 Action, No, No, Wizard, Players Handbook
+Mending, 0, Transmutation, 1 Minute, No, No, Bard Cleric Druid Sorcerer Wizard, Players Handbook
+Message, 0, Transmutation, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Meteor Swarm, 9, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Mind Blank, 8, Abjuration, 1 Action, No, No, Bard Wizard, Players Handbook
+Minor Illusion, 0, Illusion, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Mirage Arcane, 7, Illusion, 10 Minutes, No, No, Bard Druid Wizard, Players Handbook
+Mirror Image, 2, Illusion, 1 Action, No, No, Sorcerer Warlock Wizard, Players Handbook
+Mislead, 5, Illusion, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Misty Step, 2, Conjuration, 1 Bonus Action, No, No, Sorcerer Warlock Wizard, Players Handbook
+Modify Memory, 5, Enchantment, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Moonbeam, 2, Evocation, 1 Action, No, Yes, Druid, Players Handbook
+Mordenkainen's Faithful Hound, 4, Conjuration, 1 Action, No, No, Wizard, Players Handbook
+Mordenkainen's Magnificent Mansion, 7, Conjuration, 1 Minute, No, No, Bard Wizard, Players Handbook
+Mordenkainen's Private Sanctum, 4, Abjuration, 10 Minutes, No, No, Wizard, Players Handbook
+Mordenkainen's Sword, 7, Evocation, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Move Earth, 6, Transmutation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Nondetection, 3, Abjuration, 1 Action, No, No, Bard Ranger Wizard, Players Handbook
+Nystul's Magic Aura, 2, Illusion, 1 Action, No, No, Wizard, Players Handbook
+Otiluke's Freezing Sphere, 6, Evocation, 1 Action, No, No, Wizard, Players Handbook
+Otiluke's Resilient Sphere, 4, Evocation, 1 Action, No, Yes, Wizard, Players Handbook
+Otto's Irresistible Dance, 6, Enchantment, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Pass Without Trace, 2, Abjuration, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Passwall, 5, Transmutation, 1 Action, No, No, Wizard, Players Handbook
+Phantasmal Force, 2, Illusion, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Phantasmal Killer, 4, Illusion, 1 Action, No, Yes, Wizard, Players Handbook
+Phantom Steed, 3, Illusion, 1 Minute, Yes, No, Wizard, Players Handbook
+Planar Ally, 6, Conjuration, 10 Minutes, No, No, Cleric, Players Handbook
+Planar Binding, 5, Abjuration, 1 Hour, No, No, Bard Cleric Druid Wizard, Players Handbook
+Plane Shift, 7, Conjuration, 1 Action, No, No, Cleric Druid Sorcerer Warlock Wizard, Players Handbook
+Plant Growth, 3, Transmutation, Special, No, No, Bard Druid Ranger, Players Handbook
+Poison Spray, 0, Conjuration, 1 Action, No, No, Druid Sorcerer Warlock Wizard, Players Handbook
+Polymorph, 4, Transmutation, 1 Action, No, Yes, Bard Druid Sorcerer Wizard, Players Handbook
+Power Word Kill, 9, Enchantment, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Power Word Stun, 8, Enchantment, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Prayer of Healing, 2, Evocation, 10 Minutes, No, No, Cleric, Players Handbook
+Prestidigitation, 0, Transmutation, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Prismatic Spray, 7, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Prismatic Wall, 9, Abjuration, 1 Action, No, No, Wizard, Players Handbook
+Produce Flame, 0, Conjuration, 1 Action, No, No, Druid, Players Handbook
+Programmed Illusion, 6, Illusion, 1 Action, No, No, Bard Wizard, Players Handbook
+Project Image, 7, Illusion, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Protection from Energy, 3, Abjuration, 1 Action, No, Yes, Cleric Druid Ranger Sorcerer Wizard, Players Handbook
+Protection from Evil and Good, 1, Abjuration, 1 Action, No, Yes, Cleric Paladin Warlock Wizard, Players Handbook
+Protection from Poison, 2, Abjuration, 1 Action, No, No, Cleric Druid Paladin Ranger, Players Handbook
+Purify Food and Drink, 1, Transmutation, 1 Action, Yes, No, Cleric Druid Paladin, Players Handbook
+Raise Dead, 5, Necromancy, 1 Hour, No, No, Bard Cleric Paladin, Players Handbook
+Rary's Telepathic Bond, 5, Divination, 1 Action, Yes, No, Wizard, Players Handbook
+Ray of Enfeeblement, 2, Necromancy, 1 Action, No, Yes, Warlock Wizard, Players Handbook
+Ray of Frost, 0, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Ray of Sickness, 1, Necromancy, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Regenerate, 7, Transmutation, 1 Minute, No, No, Bard Cleric Druid, Players Handbook
+Reincarnate, 5, Transmutation, 1 Hour, No, No, Druid, Players Handbook
+Remove Curse, 3, Abjuration, 1 Action, No, No, Cleric Paladin Warlock Wizard, Players Handbook
+Resistance, 0, Abjuration, 1 Action, No, Yes, Cleric Druid, Players Handbook
+Resurrection, 7, Necromancy, 1 Hour, No, No, Bard Cleric, Players Handbook
+Reverse Gravity, 7, Transmutation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Revivify, 3, Necromancy, 1 Action, No, No, Cleric Paladin, Players Handbook
+Rope Trick, 2, Transmutation, 1 Action, No, No, Wizard, Players Handbook
+Sacred Flame, 0, Evocation, 1 Action, No, No, Cleric, Players Handbook
+Sanctuary, 1, Abjuration, 1 Bonus Action, No, No, Cleric, Players Handbook
+Scorching Ray, 2, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Scrying, 5, Divination, 10 Minutes, No, Yes, Bard Cleric Druid Warlock Wizard, Players Handbook
+Searing Smite, 1, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+See invisibility, 2, Divination, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Seeming, 5, Illusion, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Sending, 3, Evocation, 1 Action, No, No, Bard Cleric Wizard, Players Handbook
+Sequester, 7, Transmutation, 1 Action, No, No, Wizard, Players Handbook
+Shapechange, 9, Transmutation, 1 Action, No, Yes, Druid Wizard, Players Handbook
+Shatter, 2, Evocation, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Players Handbook
+Shield, 1, Abjuration, Special, No, No, Sorcerer Wizard, Players Handbook
+Shield of Faith, 1, Abjuration, 1 Bonus Action, No, Yes, Cleric Paladin, Players Handbook
+Shillelagh, 0, Transmutation, 1 Bonus Action, No, No, Druid, Players Handbook
+Shocking Grasp, 0, Evocation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Silence, 2, Illusion, 1 Action, Yes, Yes, Bard Cleric Ranger, Players Handbook
+Silent Image, 1, Illusion, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Simulacrum, 7, Illusion, 12 Hours, No, No, Wizard, Players Handbook
+Sleep, 1, Enchantment, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Sleet Storm, 3, Conjuration, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Slow, 3, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Spare the Dying, 0, Necromancy, 1 Action, No, No, Cleric, Players Handbook
+Speak with Animals, 1, Divination, 1 Action, Yes, No, Bard Druid Ranger, Players Handbook
+Speak with Dead, 3, Necromancy, 1 Action, No, No, Bard Cleric, Players Handbook
+Speak with Plants, 3, Transmutation, 1 Action, No, No, Bard Druid Ranger, Players Handbook
+Spider Climb, 2, Transmutation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Spike Growth, 2, Transmutation, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Spirit Guardians, 3, Conjuration, 1 Action, No, Yes, Cleric, Players Handbook
+Spiritual Weapon, 2, Evocation, 1 Bonus Action, No, No, Cleric, Players Handbook
+Staggering Smite, 4, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Stinking Cloud, 3, Conjuration, 1 Action, No, Yes, Bard Sorcerer Wizard, Players Handbook
+Stone Shape, 4, Transmutation, 1 Action, No, No, Cleric Druid Wizard, Players Handbook
+Stoneskin, 4, Abjuration, 1 Action, No, Yes, Druid Ranger Sorcerer Wizard, Players Handbook
+Storm of Vengeance, 9, Conjuration, 1 Action, No, Yes, Druid, Players Handbook
+Suggestion, 2, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Sunbeam, 6, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Sunburst, 8, Evocation, 1 Action, No, No, Druid Sorcerer Wizard, Players Handbook
+Swift Quiver, 5, Transmutation, 1 Bonus Action, No, Yes, Ranger, Players Handbook
+Symbol, 7, Abjuration, 1 Minute, No, No, Bard Cleric Wizard, Players Handbook
+Tasha's Hideous Laughter, 1, Enchantment, 1 Action, No, Yes, Bard Wizard, Players Handbook
+Telekinesis, 5, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Telepathy, 8, Evocation, 1 Action, No, No, Wizard, Players Handbook
+Teleport, 7, Conjuration, 1 Action, No, No, Bard Sorcerer Wizard, Players Handbook
+Teleportation Circle, 5, Conjuration, 1 Minute, No, No, Bard Sorcerer Wizard, Players Handbook
+Tenser's Floating Disk, 1, Conjuration, 1 Action, Yes, No, Wizard, Players Handbook
+Thaumaturgy, 0, Transmutation, 1 Action, No, No, Cleric, Players Handbook
+Thorn Whip, 0, Transmutation, 1 Action, No, No, Druid, Players Handbook
+Thunderous Smite, 1, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Thunderwave, 1, Evocation, 1 Action, No, No, Bard Druid Sorcerer Wizard, Players Handbook
+Time Stop, 9, Transmutation, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Tongues, 3, Divination, 1 Action, No, No, Bard Cleric Sorcerer Warlock Wizard, Players Handbook
+Transport via Plants, 6, Conjuration, 1 Action, No, No, Druid, Players Handbook
+Tree Stride, 5, Conjuration, 1 Action, No, Yes, Druid Ranger, Players Handbook
+True Polymorph, 9, Transmutation, 1 Action, No, Yes, Bard Warlock Wizard, Players Handbook
+True Resurrection, 9, Necromancy, 1 Hour, No, No, Cleric Druid, Players Handbook
+True Seeing, 6, Divination, 1 Action, No, No, Bard Cleric Sorcerer Warlock Wizard, Players Handbook
+True Strike, 0, Divination, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Players Handbook
+Tsunami, 8, Conjuration, 1 Minute, No, Yes, Druid, Players Handbook
+Unseen Servant, 1, Conjuration, 1 Action, Yes, No, Bard Warlock Wizard, Players Handbook
+Vampiric Touch, 3, Necromancy, 1 Action, No, Yes, Warlock Wizard, Players Handbook
+Wall of Fire, 4, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Wall of Force, 5, Evocation, 1 Action, No, Yes, Wizard, Players Handbook
+Wall of Ice, 6, Evocation, 1 Action, No, Yes, Wizard, Players Handbook
+Wall of Stone, 5, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Players Handbook
+Wall of Thorns, 6, Conjuration, 1 Action, No, Yes, Druid, Players Handbook
+Warding Bond, 2, Abjuration, 1 Action, No, No, Cleric, Players Handbook
+Water Breathing, 3, Transmutation, 1 Action, Yes, No, Druid Ranger Sorcerer Wizard, Players Handbook
+Water Walk, 3, Transmutation, 1 Action, Yes, No, Cleric Druid Ranger Sorcerer, Players Handbook
+Web, 2, Conjuration, 1 Action, No, Yes, Sorcerer Wizard, Players Handbook
+Weird, 9, Illusion, 1 Action, No, Yes, Wizard, Players Handbook
+Wind Walk, 6, Transmutation, 1 Minute, No, No, Druid, Players Handbook
+Wind Wall, 3, Evocation, 1 Action, No, Yes, Druid Ranger, Players Handbook
+Wish, 9, Conjuration, 1 Action, No, No, Sorcerer Wizard, Players Handbook
+Witch Bolt, 1, Evocation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Players Handbook
+Word of Recall, 6, Conjuration, 1 Action, No, No, Cleric, Players Handbook
+Wrathful Smite, 1, Evocation, 1 Bonus Action, No, Yes, Paladin, Players Handbook
+Zone of Truth, 2, Enchantment, 1 Action, No, No, Bard Cleric Paladin, Players Handbook
+Power Word Heal, 9, Evocation, 1 Action, No, No, Bard, Players Handbook
+Vicious Mockery, 0, Enchantment, 1 Action, No, No, Bard, Players Handbook
+Trap the Soul, 8, Conjuration, 1 Action, No, No, , Players Handbook
+Thunderclap, 0, Evocation, 1 Action, No, No, Bard Druid Sorcerer Warlock Wizard, Elemental Evil
+Earth Tremor , 1, Evocation, 1 Action, No, No, Bard Druid Sorcerer Wizard, Elemental Evil
+Pyrotechnics, 2, Transmutation, 1 Action, No, No, Bard Sorcerer Wizard, Elemental Evil
+Skywrite, 2, Transmutation, 1 Action, Yes, Yes, Bard Druid Wizard, Elemental Evil
+Warding Wind, 2, Evocation, 1 Action, No, Yes, Bard Druid Sorcerer Wizard, Elemental Evil
+Create Bonfire, 0, Conjuration, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Control Flames, 0, Transmutation, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Frostbite, 0, Evocation, 1 Action, No, No, Druid Sorcerer Warlock Wizard, Elemental Evil
+Gust, 0, Transmutation, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Magic Stone, 0, Transmutation, 1 Bonus Action, No, No, Druid Warlock, Elemental Evil
+Mold earth, 0, Transmutation, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Shape Water, 0, Transmutation, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Absorb Elements , 1, Abjuration, Special, No, No, Druid Ranger Sorcerer Wizard, Elemental Evil
+Beast Bond, 1, Divination, 1 Action, No, Yes, Druid Ranger, Elemental Evil
+Ice Knife, 1, Conjuration, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Dust Devil, 2, Conjuration, 1 Action, No, Yes, Druid Sorcerer Wizard, Elemental Evil
+Earthbind, 2, Transmutation, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Erupting Earth, 3, Transmutation, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Flame Arrows, 3, Transmutation, 1 Action, No, Yes, Druid Ranger Sorcerer Wizard, Elemental Evil
+Tidal Wave, 3, Conjuration, 1 Action, No, No, Druid Sorcerer Wizard, Elemental Evil
+Wall of Water, 3, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Elemental Evil
+Elemental Bane, 4, Transmutation, 1 Action, No, Yes, Druid Warlock Wizard, Elemental Evil
+Watery Sphere, 4, Conjuration, 1 Action, No, Yes, Druid Sorcerer Wizard, Elemental Evil
+Control Winds, 5, Transmutation, 1 Action, No, Yes, Druid Sorcerer Wizard, Elemental Evil
+Maelstrom, 5, Evocation, 1 Action, No, Yes, Druid, Elemental Evil
+Transmute Rock, 5, Transmutation, 1 Action, No, No, Druid Wizard, Elemental Evil
+Bones of the Earth, 6, Transmutation, 1 Action, No, No, Druid, Elemental Evil
+Investiture of Flame, 6, Transmutation, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Investiture of Ice, 6, Transmutation, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Investiture of Stone, 6, Transmutation, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Investiture of Wind, 6, Transmutation, 1 Action, No, Yes, Druid Sorcerer Warlock Wizard, Elemental Evil
+Primordial Ward, 6, Abjuration, 1 Action, No, Yes, Druid, Elemental Evil
+Whirlwind, 7, Evocation, 1 Action, No, Yes, Druid Sorcerer Wizard, Elemental Evil
+Catapult, 1, Transmutation, 1 Action, No, No, Sorcerer Wizard, Elemental Evil
+Aganazzar's Scorcher, 2, Evocation, 1 Action, No, No, Sorcerer Wizard, Elemental Evil
+Maximilian's Earthen Grasp, 2, Transmutation, 1 Action, No, Yes, Sorcerer Wizard, Elemental Evil
+Snilloc's Snowball Swarm, 2, Evocation, 1 Action, No, No, Sorcerer Wizard, Elemental Evil
+Melf's Minute Meteors , 3, Evocation, 1 Action, No, Yes, Sorcerer Wizard, Elemental Evil
+Storm Sphere, 4, Evocation, 1 Action, No, Yes, Sorcerer Wizard, Elemental Evil
+Vitriolic Sphere, 4, Evocation, 1 Action, No, No, Sorcerer Wizard, Elemental Evil
+Immolation, 5, Evocation, 1 Action, No, Yes, Sorcerer Wizard, Elemental Evil
+Abi-Dalzim's Horrid Wilting, 8, Necromancy, 1 Action, No, No, Sorcerer Wizard, Elemental Evil
+Wall of Sand, 3, Evocation, 1 Action, No, Yes, Wizard, Elemental Evil
+Booming Blade, 0, Evocation, 1 Action, No, No, Sorcerer Warlock Wizard, Sword Coast adv. guide
+Green-Flame Blade, 0, Evocation, 1 Action, No, No, Sorcerer Warlock Wizard, Sword Coast adv. guide
+Lightning Lure, 0, Evocation, 1 Action, No, No, Sorcerer Warlock Wizard, Sword Coast adv. guide
+Sword Burst, 0, Conjuration, 1 Action, No, No, Sorcerer Warlock Wizard, Sword Coast adv. guide
+Catnap, 3, Enchantment, 1 Action, No, No, Bard Sorcerer Wizard, Xanathars Guide To Everything
+Cause Fear, 1, Necromancy, 1 Action, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Ceremony, 1, Abjuration, 1 Hour, Yes, No, Cleric Paladin, Xanathars Guide To Everything
+Chaos Bolt, 1, Evocation, 1 Action, No, No, Sorcerer, Xanathars Guide To Everything
+Charm Monster, 4, Enchantment, 1 Action, No, No, Bard Druid Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Create Homunculus, 6, Transmutation, 1 Hour, No, No, Wizard, Xanathars Guide To Everything
+Crown of Stars, 7, Evocation, 1 Action, No, No, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Danse Macabre, 5, Necromancy, 1 Action, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Dawn, 5, Evocation, 1 Action, No, Yes, Cleric Wizard, Xanathars Guide To Everything
+Dragon's Breath, 2, Transmutation, 1 Bonus Action, No, Yes, Sorcerer Wizard, Xanathars Guide To Everything
+Druid Grove, 6, Abjuration, 10 Minutes, No, No, Druid, Xanathars Guide To Everything
+Enemies abound, 3, Enchantment, 1 Action, No, Yes, Bard Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Enervation, 5, Necromancy, 1 Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Far Step, 5, Conjuration, 1 Bonus Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Find Greater Steed, 4, Conjuration, 10 Minutes, No, No, Paladin, Xanathars Guide To Everything
+Guardian of Nature, 4, Transmutation, 1 Bonus Action, No, Yes, Druid Ranger, Xanathars Guide To Everything
+Healing Spirit, 2, Conjuration, 1 Bonus Action, No, Yes, Druid Ranger, Xanathars Guide To Everything
+Holy Weapon, 5, Evocation, 1 Bonus Action, No, Yes, Cleric Paladin, Xanathars Guide To Everything
+Illusory Dragon, 8, Illusion, 1 Action, No, Yes, Wizard, Xanathars Guide To Everything
+Infernal Calling, 5, Conjuration, 1 Minute, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Infestation, 0, Conjuration, 1 Action, No, No, Druid Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Invulnerability, 9, Abjuration, 1 Action, No, Yes, Wizard, Xanathars Guide To Everything
+Life Transference, 3, Necromancy, 1 Action, No, No, Cleric Wizard, Xanathars Guide To Everything
+Maddening Darkness, 8, Evocation, 1 Action, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Mass Polymorph, 9, Transmutation, 1 Action, No, Yes, Bard Sorcerer Wizard, Xanathars Guide To Everything
+Mental Prison, 6, Illusion, 1 Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Mighty Fortress, 8, Conjuration, 1 Minute, No, No, Wizard, Xanathars Guide To Everything
+Mind Spike, 2, Divination, 1 Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Negative Energy Flood, 5, Necromancy, 1 Action, No, No, Warlock Wizard, Xanathars Guide To Everything
+Power Word Pain, 7, Enchantment, 1 Action, No, No, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Primal Savagery, 0, Transmutation, 1 Action, No, No, Druid, Xanathars Guide To Everything
+Primordial Ward, 6, Abjuration, 1 Action, No, Yes, Druid, Xanathars Guide To Everything
+Psychic Scream, 9, Enchantment, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Scatter, 6, Conjuration, 1 Action, No, No, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Shadow Blade, 2, Illusion, 1 Bonus Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Shadow of Moil, 4, Necromancy, 1 Action, No, Yes, Warlock, Xanathars Guide To Everything
+Sickening Radiance, 4, Evocation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Skill Empowerment, 5, Transmutation, 1 Action, No, Yes, Bard Sorcerer Wizard, Xanathars Guide To Everything
+Snare, 1, Abjuration, 1 Minute, No, No, Druid Ranger Wizard, Xanathars Guide To Everything
+Soul Cage, 6, Necromancy, Special, No, No, Warlock Wizard, Xanathars Guide To Everything
+Steel Wind Strike, 5, Conjuration, 1 Action, No, No, Ranger Wizard, Xanathars Guide To Everything
+Summon Greater Demon, 4, Conjuration, 1 Action, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Summon Lesser Demons, 3, Conjuration, 1 Action, No, Yes, Warlock Wizard, Xanathars Guide To Everything
+Synaptic Static, 5, Enchantment, 1 Action, No, No, Bard Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Temple of the Gods, 7, Conjuration, 1 Hour, No, No, Cleric, Xanathars Guide To Everything
+Tenser's Transformation, 6, Transmutation, 1 Action, No, Yes, Wizard, Xanathars Guide To Everything
+Thunder Step, 3, Conjuration, 1 Action, No, No, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Tiny Servant, 3, Transmutation, 1 Minute, No, No, Wizard, Xanathars Guide To Everything
+Toll the Dead, 0, Necromancy, 1 Action, No, No, Cleric Warlock Wizard, Xanathars Guide To Everything
+Wall of Light, 5, Evocation, 1 Action, No, Yes, Sorcerer Warlock Wizard, Xanathars Guide To Everything
+Word of Radiance, 0, Evocation, 1 Action, No, No, Cleric, Xanathars Guide To Everything
+Wrath of Nature, 5, Evocation, 1 Action, No, Yes, Druid Ranger, Xanathars Guide To Everything
+Zephyr Strike, 1, Transmutation, 1 Bonus Action, No, Yes, Ranger, Xanathars Guide To Everything
